@@ -23,11 +23,5 @@ This web-based Supply Chain Management System enables administrators to manage s
 4. Start Apache and MySQL servers
 5. Visit: `http://localhost/supply-chain-management-system`
 
-## 🔑 Default Admin Credentials
-(If available in your code or DB)
-
-## 📷 Screenshots
-*(Add dashboard/login screenshots here if available)*
-
 ## 🧑‍💻 Author
 [Satish Kumar Pyata](https://github.com/COutSatish)
